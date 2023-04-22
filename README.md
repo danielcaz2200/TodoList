@@ -1,4 +1,4 @@
-# todo_list
+# TodoList
 ## A todolist using vanilla JS and bootstrap CSS.
 
 ### Using this app, users can add, delete, filter, and remove all tasks with a button interface.
